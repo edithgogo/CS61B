@@ -1,4 +1,5 @@
-# CS61B Data Structures and Algorithms
+# CS61B
+Data Structures and Algorithms
 
 My projects for CS61B, Fall 2019. http://www-inst.eecs.berkeley.edu/~cs61b/fa19/ . Not to be copied.
 
