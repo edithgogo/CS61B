@@ -1,6 +1,6 @@
 **MAKING MY OWN VERSION-CONTROL SYSTEM**
 
-![gitlet Image](https://github.com/somyam/CS61B/blob/master/Projects/Enigma/commits-and-blobs.png)
+![gitlet Image](https://github.com/somyam/CS61B/blob/master/Projects/Gitlet/commits-and-blobs.png)
 
 See project spec:
 
