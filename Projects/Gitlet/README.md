@@ -1,6 +1,6 @@
 **MAKING MY OWN VERSION-CONTROL SYSTEM**
 
-
+![gitlet project] commits-and-blobs.png
 
 See project spec:
 
