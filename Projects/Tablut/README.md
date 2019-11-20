@@ -1,5 +1,6 @@
 **TABLUT GAME**
 
+![tablut Image](https://github.com/somyam/CS61B/blob/master/Projects/Tablut/tablut1.jpg)
 
 
 See project spec:
