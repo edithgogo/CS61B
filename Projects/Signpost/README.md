@@ -1,9 +1,5 @@
 http://www-inst.eecs.berkeley.edu/~cs61b/fa19/materials/proj/proj0/index.html
 
-**SIGNPOST**
-
-Projects/Signpost/24.png
-
 ![Signpost Image](https://github.com/somyam/CS61B/blob/master/Projects/Signpost/24.png)
 
 
